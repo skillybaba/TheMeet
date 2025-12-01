@@ -1,5 +1,5 @@
-# Sapphire Meet
-<img src = "https://github.com/kanzd/finalcom/blob/master/web_hi_res_512.png" width="30%" >
+# The Meet
+
 
 Confrence Calling Application
 
